@@ -12,4 +12,4 @@ Graphics: MSI GeForce GTX 760 2048MB TwinFrozr GAMING-series
 
 Harddrive: 480GB ST480HM000 (SSD), 2xST2000DM001
 
-
+Bluetooth: Generic BCM20702A0 (http://www.ebay.com/itm/252395220086)
