@@ -2,7 +2,7 @@
 Hackintosh build on my old PC.
 
 
-Motherboard: MSI Z87-S02 INET EDITION ATX (Z87-G45 GAMING EDITITON)
+Motherboard: MSI Z87-S02 INET EDITION ATX (Z87-G45 GAMING EDITION)
 
 Memory: Kingston 16GB (2x8GB) CL11 2400Mhz XMP Beast Series
 
